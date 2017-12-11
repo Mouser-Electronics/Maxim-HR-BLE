@@ -1,2 +1,6 @@
 # Maxim-HR-BLE
 Heart Rate Monitor with Android App APK
+
+
+Maxim MAX32630FTHR is supported by mbed. You will find the code for this project at the following link:
+https://os.mbed.com/users/Brakkion/code/BLEHeartRateMon/
