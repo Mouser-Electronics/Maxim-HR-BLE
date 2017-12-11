@@ -1,5 +1,5 @@
 # Maxim-HR-BLE
-Heart Rate Monitor with Android App APK
+Heart Rate Monitor with Android App APK and Cloud upload.
 
 
 Maxim MAX32630FTHR is supported by mbed. You will find the code for this project at the following link:
