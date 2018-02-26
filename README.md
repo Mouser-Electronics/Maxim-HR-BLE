@@ -7,3 +7,7 @@ https://os.mbed.com/users/Brakkion/code/BLEHeartRateMon/
 
 Mouser project BOM can be be found at the following link:
 https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5a188ef16f
+
+
+Mouser project article can be found at the following link:
+https://www.mouser.com/applications/creating-a-wearable-heart-rate-monitor/
