@@ -10,4 +10,4 @@ https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5a188ef16f
 
 
 Mouser project article can be found at the following link:
-https://www.mouser.com/applications/creating-a-wearable-heart-rate-monitor/
+https://resources.mouser.com/hardware-projects/creating-a-wearable-heart-rate-monitor
